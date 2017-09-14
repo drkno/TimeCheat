@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeCheat", "TimeCheat\TimeCheat.csproj", "{5B61C484-7B92-4E3F-A045-9AC8873FE049}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{525D03EF-1865-4478-9765-75DAF029EF37}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B61C484-7B92-4E3F-A045-9AC8873FE049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B61C484-7B92-4E3F-A045-9AC8873FE049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B61C484-7B92-4E3F-A045-9AC8873FE049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B61C484-7B92-4E3F-A045-9AC8873FE049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC076477-D717-4BB3-B9E7-919CFB64A040}
+	EndGlobalSection
+EndGlobal

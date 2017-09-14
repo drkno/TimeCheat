@@ -1,0 +1,26 @@
+﻿[
+    {
+        "name": "Training",
+        "rules": {
+            "window": [ ".*Pluralsight.*" ]
+        }
+    },
+    {
+        "name": "Team Meeting",
+        "rules": {
+            "outlook": [ "GoT", "Game of Thrones" ]
+        }
+    },
+    {
+        "name": "General Admin",
+        "rules": {
+            "window": [ ".*Outlook.*", ".*Microsoft Teams.*", ".*Slack.*", ".*Skype.*", ".* Appointment.*", ".*JIRA.*", ".*ServiceNow.*", ".*Assist.*" ]
+        }
+    },
+    {
+        "name": "General Uncategorised Development",
+        "rules": {
+            "window": [ ".*git.*", ".*Stack Overflow.*", ".*SVN.*", ".*Eclipse.*", ".*Anypoint Studio.*", ".*Atom.*", ".*Notepad\\+\\+.*", ".*IntelliJ.*", ".*PuTTY.*", ".*Command Prompt.*", ".*ssh.*", ".*Visual Studio.*", ".*bash.*", ".*java.*", ".*powershell.*", ".*SourceTree.*" ] 
+        }
+    }
+]
