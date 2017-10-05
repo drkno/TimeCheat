@@ -2,7 +2,7 @@
 A program built on the simple cliché:
 > Work smarter not harder
 
-I hate filling out timesheets, particularly when what is on them is mostly meaningless. But these timesheets could mostly be generated if I simply recorded what I was doing on my computer each day as well as what was in my calendar (and other data sources). TimeCheat is an attempt to reaslise the dream of being even lazier while being more productive at the same time.
+I hate filling out timesheets, particularly when what is on them is *in my opinion* mostly meaningless. But these timesheets could mostly be generated if I simply recorded what I was doing on my computer each day as well as what was in my calendar (and other data sources). TimeCheat is an attempt to reaslise the dream of being even lazier while being more productive at the same time.
 
 Currently TimeCheat is Windows only but it is designed to be portable to other OS's in future.
 
